@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Z4k3n
 
-Web developer with 2+ years of experience, passionate about building clean and efficient digital experiences. Focused on private projects and tailored solutions, while always exploring new technologies.
+Web developer with 3+ years of experience, passionate about building clean and efficient digital experiences. Focused on private projects and tailored solutions, while always exploring new technologies.
 
 ## About me
 - Experience in Web2 development and exploring Web3.
